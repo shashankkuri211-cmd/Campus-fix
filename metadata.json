@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix",
+  "description": "Institutional facility operations platform for university campuses: report maintenance problems, track field dispatch crews in real-time, and manage work orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
